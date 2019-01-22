@@ -8,7 +8,7 @@
             "security": false
         },
         "0.4": {
-            "current": "0.4.0",
+            "current": "0.4.2",
             "announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2327616",
             "download": "https://github.com/gouarfig/board-notices/archive/master.zip",
             "eol": null,
@@ -17,7 +17,7 @@
     },
     "unstable": {
         "0.4": {
-            "current": "0.4.0",
+            "current": "0.4.2",
             "announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2327616",
             "download": "https://github.com/gouarfig/board-notices/archive/master.zip",
             "eol": null,
