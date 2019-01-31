@@ -13,6 +13,13 @@
             "download": "https://github.com/gouarfig/board-notices/archive/v0.4.5.zip",
             "eol": null,
             "security": false
+        },
+        "0.5": {
+            "current": "0.5.0",
+            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2327616&start=75#p15191631",
+            "download": "https://github.com/gouarfig/board-notices/archive/v0.5.0.zip",
+            "eol": null,
+            "security": false
         }
     },
     "unstable": {
@@ -20,6 +27,13 @@
             "current": "0.4.5",
             "announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2327616&start=75#p15190176",
             "download": "https://github.com/gouarfig/board-notices/archive/master.zip",
+            "eol": null,
+            "security": false
+        },
+        "0.5": {
+            "current": "0.5.0",
+            "announcement": "https://www.phpbb.com/community/viewtopic.php?f=456&t=2327616&start=75#p15191631",
+            "download": "https://github.com/gouarfig/board-notices/archive/v0.5.0.zip",
             "eol": null,
             "security": false
         }
